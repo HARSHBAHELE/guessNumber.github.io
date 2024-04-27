@@ -288,7 +288,7 @@
         }
         /* If guessed number is greater than actual number*/
         else (y!=x)
-        window.alert("CONGRATULATIONS!!! YOU GUESSED IT RIGHT IN "
+        window.alert("OOPS SORRY!!! YOU GUESSED WRONG NUMBER "
         + guess + " GUESS ");
             guess++;
     }
